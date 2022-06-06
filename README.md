@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&&logo=react&logoColor=black"></a>&nbsp 
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"></a>&nbsp
+
 </p>
 
 
@@ -28,7 +30,6 @@
  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"></a>&nbsp
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"></a>&nbsp
 </p>
 
 <p align="center"> Database </p>
